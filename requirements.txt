@@ -1,0 +1,8 @@
+# Implementation dependencies
+torch
+
+# Testing dependencies
+torchvision
+Pillow
+matplotlib
+jupyter
